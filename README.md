@@ -1,12 +1,13 @@
 # Crypto-Exchange / Coin-Exchange   
 
-# 开源代码仅供参考学习，请勿用于非法用途；稳定版请联系QQ：877070886  
+# 开源代码仅供参考学习，请勿用于非法用途；
 
 ## PC演示  
 ### [http://118.25.133.182/](http://118.25.133.182/)  
 
 ## APP下载（含永续合约）
 ![APP下载](https://images.gitee.com/uploads/images/2020/0907/170707_2da41a0c_2182501.png "appdownload.png")
+最好用浏览器扫码下载
 
 ## 后端 & 代理商后台 等演示  
 添加本人 QQ:877070886 获取。
